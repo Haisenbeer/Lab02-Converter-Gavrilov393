@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">lab02-Converter Gavrilov</string>
+    <string name="app_creator">393 Gavrilov Converter</string>
+    <string name="textView_From">From:</string>
+    <string name="textView_To">To:</string>
+    <string name="button_Convert">Convert</string>
+    <string name="textView_Result">Result</string>
+    <string name="editText_Value">Value</string>
+    <string name="radBut_Time">Time</string>
+    <string name="radBut_Lenght">Lenght</string>
+    <string name="radBut_Weight">Weight</string>
 </resources>
